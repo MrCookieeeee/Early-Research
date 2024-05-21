@@ -7,7 +7,7 @@ The contributions are as follows:
 ## Results:
 
 <p align="center">
-  <img src="[https://github.com/MrCookieeeee/Early-Research/assets/107045624/4c06dade-2ba9-4e98-8a2a-34330b290567](https://github.com/MrCookieeeee/Early-Research/assets/107045624/e96be4cc-fdb8-4e86-96a3-8ecb0891f4a3)" alt="Image 1" width="30%" />
+  <img src="https://github.com/MrCookieeeee/Early-Research/assets/107045624/e96be4cc-fdb8-4e86-96a3-8ecb0891f4a3" alt="Image 1" width="30%" />
   <img src="[https://github.com/MrCookieeeee/Early-Research/assets/107045624/4c06dade-2ba9-4e98-8a2a-34330b290567](https://github.com/MrCookieeeee/Early-Research/assets/107045624/e96be4cc-fdb8-4e86-96a3-8ecb0891f4a3)" alt="Image 1" width="30%" />
   <img src="[https://github.com/MrCookieeeee/Early-Research/assets/107045624/4c06dade-2ba9-4e98-8a2a-34330b290567](https://github.com/MrCookieeeee/Early-Research/assets/107045624/e96be4cc-fdb8-4e86-96a3-8ecb0891f4a3)" alt="Image 1" width="30%" />
   
