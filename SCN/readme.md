@@ -12,7 +12,14 @@ Single node training using  LU-SCN <br />
 
 
 <p align="center">
+  <img src="https://github.com/MrCookieeeee/Early-Research/assets/107045624/4c06dade-2ba9-4e98-8a2a-34330b290567" alt="Image 1" width="30%" />
+  <img src="https://github.com/MrCookieeeee/Early-Research/assets/107045624/another_image_id1" alt="Image 2" width="30%" />
+  <img src="https://github.com/MrCookieeeee/Early-Research/assets/107045624/another_image_id2" alt="Image 3" width="30%" />
+</p>
+
+<p align="center">
   <img src="[url_to_your_image1](https://github.com/MrCookieeeee/Early-Research/assets/107045624/751a3123-aed4-4849-a3de-6bb89b564d1f)" alt="Image 1" width="30%" />
   <img src="[url_to_your_image2](https://github.com/MrCookieeeee/Early-Research/assets/107045624/24c2bc06-005e-4aa8-b495-ee4c2707e2a6)" alt="Image 2" width="30%" />
   <img src="[url_to_your_image3](https://github.com/MrCookieeeee/Early-Research/assets/107045624/16684e6e-e043-42f9-a187-6b863934c5e2)" alt="Image 3" width="30%" />
 </p>
+![0a85a5a9b58d2863f2f8683c7c7c02d](https://github.com/MrCookieeeee/Early-Research/assets/107045624/4c06dade-2ba9-4e98-8a2a-34330b290567)
