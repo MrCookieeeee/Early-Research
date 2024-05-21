@@ -11,4 +11,4 @@ To ensure standardization in scaffolding construction, we have established a sca
 
 ## Improved federation learning method based on incremental neural network   
 In this project, we propose an improved method for the traditional Stochastic Configuration Network (SCN). Our approach replaces the conventional upper triangular matrix decomposition with LU decomposition, enhancing the operational speed and making the network more lightweight. Additionally, we incorporate federated learning into the incremental neural network, utilizing a weighted aggregation algorithm to improve model generalization and safeguard the data privacy of end nodes.<br />
-**2021.12-2022.5**<br />
+**[2021.12-2022.5]**<br />
