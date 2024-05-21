@@ -10,4 +10,4 @@ The contributions are as follows:
   <img src="https://github.com/MrCookieeeee/Early-Research/assets/107045624/4c06dade-2ba9-4e98-8a2a-34330b290567" alt="Image 1" width="30%" />
 </p>
 
-![0a85a5a9b58d2863f2f8683c7c7c02d](https://github.com/MrCookieeeee/Early-Research/assets/107045624/4c06dade-2ba9-4e98-8a2a-34330b290567)
+
