@@ -1,0 +1,1 @@
+Each top3 community has its own three main paths, which are placed in three folders.
