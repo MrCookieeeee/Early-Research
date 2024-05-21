@@ -1,0 +1,5 @@
+This project is a collaborative effort between the School of Computer Science and the School of Economics and Management. I have written all the code myself. The primary work includes:
+Data Cleaning: Cleaning the source data, which is an Excel file containing 46,743 pieces of patent data.
+Community Division: Dividing the relevant patent communities.
+Main Path Analysis: Using the main path analysis algorithm to extract the main path of patent evolution.
+Future Development Prediction: Predicting the future development direction of patents.
