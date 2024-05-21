@@ -1,5 +1,4 @@
-# Early-Research
-## Work during freshman and sophomore year
+# Early-Research, Work during freshman and sophomore year
 
 ### Research on the Evolution of Virtual Reality from the Perspective of Technology Management: Based on Semantic Analysis of Patent Citation Networks (SCI-3, Under review)  [2022.7-2022.12]
 Based on mining patent citation networks, tracks the main technological pathways and utilizes word cloud distribution techniques to predict potential evolutionary themes of virtual reality technology, which aims to expand the main pathways of virtual reality technology, providing decision making references for enhancing the precision of China's future technological development, promoting the efficiency of public technological investment, and aiding in the formulation of technology policies.
