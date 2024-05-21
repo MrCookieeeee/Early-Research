@@ -5,7 +5,7 @@
 Based on mining patent citation networks, tracks the main technological pathways and utilizes word cloud distribution techniques to predict potential evolutionary themes of virtual reality technology, which aims to expand the main pathways of virtual reality technology, providing decision making references for enhancing the precision of China's future technological development, promoting the efficiency of public technological investment, and aiding in the formulation of technology policies.<br />
 **[2022.7-2022.12]** <br />
 
-## Scaffolding video surveillance system based on multi-mode
+## Scaffolding video surveillance system based on semantic segmentation
 To ensure standardization in scaffolding construction, we have established a scaffolding classification model based on semantic segmentation. We created a dataset of 1000 scaffolding images and employed the SegFormer algorithm to achieve more precise semantic segmentation of scaffolding components.<br />
 **[2022.5-2023.5]**<br />
 
