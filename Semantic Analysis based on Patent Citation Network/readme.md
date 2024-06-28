@@ -5,6 +5,10 @@
 4. Future Development Prediction: Predicting the future development direction of patents.
 5. **Papers have been submitted to "Journal of Information Technology", Due to the requirements of the editorial department, the paper can not be displayed on github. if you need it, please contact me through email(quzhi90@gmail.com).**
 
+### Paper is accepted!!!!!
+### See the accepted.pdf
+
+
 
 ### Results
 #### top3_communitys
